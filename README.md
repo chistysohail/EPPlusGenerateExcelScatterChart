@@ -1,4 +1,5 @@
-EPPlus Excel Report Generator
+# EPPlus Excel Report Generator
+
 This project generates Excel reports using EPPlus and runs inside a Docker container. The application is built using .NET 6 and can be deployed in a Linux environment.
 
 Prerequisites:
