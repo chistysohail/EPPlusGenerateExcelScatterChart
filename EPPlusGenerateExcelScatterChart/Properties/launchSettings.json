@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EPPlusGenerateExcelScatterChart": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
